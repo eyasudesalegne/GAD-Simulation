@@ -216,5 +216,5 @@ This project is provided for research and educational purposes. Please cite appr
 For questions, suggestions, or contributions, please contact:
 
 **Eyasu Desalegne Beyene**  
-Email: [your_email@example.com]  
-GitHub: [your_github_profile]  
+Email: [e.beyene@ogr.iuc.edu.tr]  
+GitHub: [Eyasu Desalegne Beyene]  
