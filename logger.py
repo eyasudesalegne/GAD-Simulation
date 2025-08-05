@@ -64,7 +64,7 @@ class Logger:
 
 logger = Logger(level='DEBUG')  # Default to DEBUG level to see all logs
 
-# Your existing log helper functions remain unchanged:
+
 def log_simulation_step(step, total_steps):
     percent = (step / total_steps) * 100 if total_steps else 0
     logger.info(f"Simulation progress: Step {step}/{total_steps} ({percent:.1f}%)")
